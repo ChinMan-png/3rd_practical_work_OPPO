@@ -1,1 +1,3 @@
-# 3rd_practical_work_OPPO
+Лаушкин Григорий КИ24-06Б 
+Вариант 2 (19) 
+Стиль написания Google C++ Style Guide
